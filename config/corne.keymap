@@ -83,10 +83,10 @@
             //                    | GUI | LWR | SPC |   | ENT | RSE  | ALT |
 
             bindings = <
-&none  &kp Q            &kp W            &kp E             &kp R                  &kp T    &kp Y    &kp U              &kp I             &kp O              &kp P               &none
-&none  &kp A            &kp S            &hr_lmod D LCTRL  &hr_lmod F LEFT_SHIFT  &kp G    &kp H    &hr_rmod J RSHIFT  &hr_rmod K RCTRL  &kp L              &kp SEMI            &none
-&none  &hr_lmod Z LALT  &hr_lmod X LGUI  &kp C             &kp V                  &kp B    &kp N    &kp M              &kp COMMA         &hr_rmod DOT RGUI  &hr_rmod FSLH RALT  &none
-                                         &mo 1             &kp SPACE              &mo 2    &kp RET  &mo 2              &kp RIGHT_SHIFT
+&none  &kp Q            &kp W            &kp E             &kp R              &kp T    &kp Y    &kp U              &kp I             &kp O              &kp P                &none
+&none  &kp A            &kp S            &hr_lmod LCTRL D  &hr_lmod LSHIFT F  &kp G    &kp H    &hr_rmod RSHIFT J  &hr_rmod RCTRL K  &kp L              &kp SEMI             &none
+&none  &hr_lmod LALT Z  &hr_lmod LGUI X  &kp C             &kp V              &kp B    &kp N    &kp M              &kp COMMA         &hr_rmod RGUI DOT  &hr_rmod RALT SLASH  &none
+                                         &mo 1             &kp SPACE          &mo 2    &kp RET  &mo 2              &kp RIGHT_SHIFT
             >;
         };
 
